@@ -1,0 +1,6 @@
+{
+  "name": "OmniVoice",
+  "description": "AI voice assistant that operates Android apps and schedules advanced tasks and routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
